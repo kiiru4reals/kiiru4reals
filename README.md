@@ -5,8 +5,8 @@ I am a cyber security enthusiast from Nairobi, Kenya with a keen interest in mob
 
 When I am free I'd be trying to program using flutter because it is some kick ass framework!
 
-- 👀 I’m interested in IT GRC and DevSecOps.
-- 🌱 I’m currently learning cloud and network security.
+- 👀 I’m interested in IT GRC, Application Security and DevSecOps.
+- 🌱 I’m currently learning API security.
 - 💞️ I’m looking to collaborate on any interesting projects and bug bounty hunting.
 - 📫 Send me a DM on twitter [@kiiru4reals](https://twitter.com/kiiru4reals) and I shall get back to you!
 <!--
