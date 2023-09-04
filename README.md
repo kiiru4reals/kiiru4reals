@@ -7,7 +7,6 @@ When I am free I'd be trying to program using flutter because it is some kick as
 
 - 👀 I’m interested in IT GRC, Application Security and DevSecOps.
 - 🌱 I’m currently learning Red teaming essentials.
-- 💞️ I’m looking to collaborate on any interesting projects and bug bounty hunting.
 - 📫 Send me a DM on twitter [@kiiru4reals](https://twitter.com/kiiru4reals) and I shall get back to you!
 <!--
 **kiiru4reals/kiiru4reals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. - - >
